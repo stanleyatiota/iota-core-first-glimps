@@ -8,3 +8,5 @@ How to use it:
   1. download
   2. unzip and go to folder where package.json is and run >npm install
   3. run as : >node start.js
+
+https://github.com/iotaledger/iota.lib.js/blob/next/api_reference.md
