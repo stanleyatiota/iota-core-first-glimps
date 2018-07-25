@@ -21,7 +21,7 @@ iota.getNodeInfo()
 
 
 function GetMyBalance() {
-    let MySeed = "WKQDUZTGFKSSLACUCHHLZRKZBHSDSCEBHKUPDLKFBQALEBKDMFRPUQGZRXAADPG9TSRTZGGBZOFRJCFMM";
+    let MySeed = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
 
     const myaddress1 = generateAddress(MySeed, 1);
     console.log("My address1: " + myaddress1)
