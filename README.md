@@ -1,5 +1,5 @@
 # iota-core-first-glimps
-The first iota-core usage in nodejs, iota-core was born yesterday
+The first iota-core usage in nodejs, iota-core was born 
 
 Here is an example how @iota/core can be under under nodejs 8
 
